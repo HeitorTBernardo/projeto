@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links usado como cartão de visitas online
+O DevLinks é um agregador de links usado como cartão de visitas online ♥
 
 ## 🔖 Layout
 
